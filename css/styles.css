@@ -1,0 +1,48 @@
+
+#nav-bar {
+  background-color: #004080;
+}
+
+.whitetext {
+  color: #ffffff;
+}
+
+#drop-down{
+  background-color: #0073e6;
+}
+#sbutton, #cbutton, #bbutton, #sandInsert, #cementInsert, #bricksInsert {
+  display: none;
+}
+
+#sand:hover{
+  background-color: #aaa;
+  
+}
+
+#cement:hover{
+  background-color: #aaa;
+  
+}
+
+#bricks:hover{
+  background-color: #aaa;
+  
+}
+
+
+body, .container {
+  font-size: 16px;
+  
+  background-color: #61122f;
+  padding-bottom: 10px;
+}
+#body {
+  background-color: #aaa;
+}
+#nav {
+  background-color: #aaa;
+}
+
+#jumbotron {
+  background-color: #777;
+}
